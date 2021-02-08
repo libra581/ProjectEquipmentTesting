@@ -75,4 +75,4 @@
 [4]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/AnalyzeResult
 [5]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/Monitoring
 [6]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/ImitationTrapecia
-[2]: https://github.com/libra581/ImitationTrapecia/issues
+[2]: https://github.com/libra581/ProjectEquipmentTesting/issues
