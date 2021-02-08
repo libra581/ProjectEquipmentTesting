@@ -1,3 +1,6 @@
+--Создание таблиц базы данных BD_MAIN
+--PosgreSQL 10
+
 CREATE TABLE Equipment 
 (
 	IdChild INTEGER PRIMARY KEY,
@@ -28,9 +31,6 @@ CREATE TABLE MoscowTime
 	CurrentDay INTEGER NOT NULL,
 	CHECK(FourYeares > 0 AND CurrentDay > 0)
 );
-
-
-
 
 CREATE TABLE Request 
 (
@@ -88,5 +88,5 @@ CREATE TABLE FAnalyze
 	PRIMARY KEY(IdRequest, IdSession),
 	CodeExecute INTEGER NOT NULL,
 	FileDeviations BYTEA,
-IdTMI INTEGER NULL REFERENCES TMI(Id) ON DELETE SET NULL
+	IdTMI INTEGER NULL REFERENCES TMI(Id) ON DELETE SET NULL
 );
