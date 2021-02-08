@@ -21,11 +21,12 @@
 При проектировании применены метод **модуляризации** и **иерархической декомпозиции** программы.<br>
 Структура ПО КИС включает следующие программные модули:
 1. [управляющий модуль][1];
-2. [циклограмма формирования плана исптаний][1];
-3. [модуль имитации тестовых данных][1];
-4. [модуль анализа телеметрической информации][1];
-5. [модуль мониторинга испытаний][1];
-6. [база данных][1].
+2. [циклограмма формирования плана исптаний][2];
+3. [модуль имитации тестовых данных][3];
+4. [модуль анализа телеметрической информации][4];
+5. [модуль мониторинга испытаний][5];
+6. [модуль имитации пункта приема][6];
+7. [база данных][1].
 
 Схема взаимодействия фукнциональных модулей в составе контрольно-испытательной системы:<br>
 ![Взаимодействие_программ](https://i.pinimg.com/originals/20/83/f4/2083f4763c768a9e1b2891e9b0f5f47a.png)
@@ -68,5 +69,10 @@
 Если у вас возникли сложности или вопросы, создайте [обсуждение][2] в данном репозитории 
 или напишите на электронную почту libese581@gmail.com.
 
-[1]: https://github.com/libra581/ManagerTesting
+[1]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/ManagerTesting
+[2]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/CycleGramma
+[3]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/InputData
+[4]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/AnalyzeResult
+[5]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/Monitoring
+[6]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/ImitationTrapecia
 [2]: https://github.com/libra581/ImitationTrapecia/issues
