@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/aerial.png</file>
+        <file>img/arrow.png</file>
+        <file>img/aerialBlack.png</file>
+        <file>img/aerialBlueBold.png</file>
+        <file>img/aerialBold.png</file>
+        <file>img/arrowBlue.png</file>
+        <file>img/drawing.svg</file>
+        <file>img/drawing.svg.png</file>
+        <file>img/path580.png</file>
+        <file>img/g22.png</file>
+        <file>img/arrowMenu.png</file>
+        <file>ItemMenu.qml</file>
+        <file>img/textGo.png</file>
+        <file>ItemStatus.qml</file>
+        <file>RectStatus.qml</file>
+    </qresource>
+</RCC>

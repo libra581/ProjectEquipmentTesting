@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>img/icons8-combo-chart-100.png</file>
+        <file>img/icons8-repository-64.png</file>
+        <file>img/icons8-networking-manager-96.png</file>
+        <file>ItemObserver.qml</file>
+        <file>ItemCodeExec.qml</file>
+        <file>ItemEquipments.qml</file>
+    </qresource>
+</RCC>

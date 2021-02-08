@@ -1,0 +1,7 @@
+QTableView {
+	border:0px;
+}
+
+QTableView::item:selected {
+	background: rgb(32, 153, 114);
+}
