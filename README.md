@@ -107,7 +107,7 @@
 | Мониторинг (server) | — | (132) 36 байт |
 
 # Поддержка
-Если у вас возникли сложности или вопросы, создайте [обсуждение][2] в данном репозитории 
+Если у вас возникли сложности или вопросы, создайте [обсуждение][7] в данном репозитории 
 или напишите на электронную почту libese581@gmail.com.
 
 [1]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/ManagerTesting
@@ -116,4 +116,4 @@
 [4]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/AnalyzeResult
 [5]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/Monitoring
 [6]: https://github.com/libra581/ProjectEquipmentTesting/tree/main/ImitationTrapecia
-[2]: https://github.com/libra581/ProjectEquipmentTesting/issues
+[7]: https://github.com/libra581/ProjectEquipmentTesting/issues
